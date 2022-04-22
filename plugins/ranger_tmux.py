@@ -1,0 +1,1 @@
+/home/ole/.local/lib/python3.9/site-packages/ranger_tmux/plugin.py
